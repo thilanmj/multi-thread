@@ -1,10 +1,10 @@
-package com.codexmo.multitrds;
+package com.codexmo.multithreads;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MultitrdsApplicationTests {
+class MultiithreadApplicationTests {
 
     @Test
     void contextLoads() {

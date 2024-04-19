@@ -1,4 +1,4 @@
-package com.codexmo.multitrds.enitiy;
+package com.codexmo.multithreads.enitiy;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
